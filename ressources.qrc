@@ -1,0 +1,28 @@
+<RCC>
+  <qresource>
+    <file>icons/icons8-trash-50.png</file>
+    <file>icons/icons8-edit-50 (1).png</file>
+    <file>icons/icons8-edit-50.png</file>
+    <file>icons/icons8-trash-50 (1).png</file>
+    <file>icons/icons8-soleil-96.png</file>
+    <file>icons/icons8-lune-100.png</file>
+    <file>icons/icons8-menu-64.png</file>
+    <file>icons/icons8-login-96.png</file>
+    <file>icons/icons8-paramètres-96.png</file>
+    <file>icons/icons8-quitter-96.png</file>
+    <file>icons/icons8-settings-96.png</file>
+    <file>icons/education.png</file>
+    <file>icons/icons8-dashboard-layout-96 (1).png</file>
+    <file>icons/icons8-dashboard-layout-96.png</file>
+    <file>icons/icons8-fichier-important-64 (1).png</file>
+    <file>icons/icons8-fichier-important-64.png</file>
+    <file>icons/icons8-groupe-d'utilisateurs-64 (1).png</file>
+    <file>icons/icons8-groupe-d'utilisateurs-64.png</file>
+    <file>icons/icons8-manuel-100.png</file>
+    <file>icons/icons8-notes-64 (1).png</file>
+    <file>icons/icons8-notes-64.png</file>
+    <file>icons/icons8-teacher-100 (1).png</file>
+    <file>icons/icons8-teacher-100.png</file>
+    <file>icons/icons8-user-manual-100.png</file>
+  </qresource>
+</RCC>
